@@ -10,6 +10,6 @@ offers various math methods used in your projects as the helper ones.
 #### Have fun with my code and feel free to give me any comments
 
 #### Connect me via:
-[Facebook](https://www.facebook.com/profile.php?id=100006347771301)
+[Facebook](https://www.facebook.com/profile.php?id=100006347771301)  
 [Email](mailto: phamsn2001@gmail.com)
 #### © 2021 KimSon
