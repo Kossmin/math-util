@@ -12,7 +12,7 @@ offers various math methods used in your projects as the helper ones.
 #### Connect me via:
 [Facebook](https://www.facebook.com/profile.php?id=100006347771301)  
 [Email](mailto: phamsn2001@gmail.com)  
-![GitHub Logo](\math-util\unnamed.jpg)
+![GitHub Logo](https://github.com/phamsn2001/math-util/blob/main/unnamed.jpg)
 
 
 #### © 2021 KimSon
