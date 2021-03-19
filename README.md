@@ -11,5 +11,8 @@ offers various math methods used in your projects as the helper ones.
 
 #### Connect me via:
 [Facebook](https://www.facebook.com/profile.php?id=100006347771301)  
-[Email](mailto: phamsn2001@gmail.com)
+[Email](mailto: phamsn2001@gmail.com)  
+![GitHub Logo](/math-util/unnamed.jpg)
+
+
 #### © 2021 KimSon
